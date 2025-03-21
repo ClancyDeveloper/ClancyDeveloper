@@ -18,7 +18,7 @@
     <a href="mailto:eduardo.contato@gmail.com" target="_blank"> 
       <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" />
     </a>
-    <a href="https://www.instagram.com/sun.developer/" target="_blank">
+    <a href="https://www.instagram.com/fantauva250ml/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram" />
     </a>
 </div> 
