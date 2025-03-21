@@ -1,176 +1,64 @@
-<!--       
-    Stacks:   
--->
+<!-- Stacks -->
 <div align="center">
   <a href="https://github.com/EduardoAntonio77">     
-    <img src="https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117" alt="React.js">&nbsp;
-    <img src="https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React Native">&nbsp;
-    <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117" alt="TypeScript">&nbsp;
-    <img src="https://img.shields.io/badge/-Styled%20Components-0D1117?style=for-the-badge&logo=styled-components&logoColor=DB7093&labelColor=0D1117" alt="Styled Components">&nbsp;
-    <img src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117" alt="Node.JS">&nbsp;
+    <img src="https://img.shields.io/badge/-React.js-1E1E2E?style=for-the-badge&logo=react&labelColor=1E1E2E&logoColor=61DAFB" alt="React.js">&nbsp;
+    <img src="https://img.shields.io/badge/-React%20Native-1E1E2E?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1E1E2E" alt="React Native">&nbsp;
+    <img src="https://img.shields.io/badge/-TypeScript-1E1E2E?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=1E1E2E" alt="TypeScript">&nbsp;
+    <img src="https://img.shields.io/badge/-Node.js-1E1E2E?style=for-the-badge&logo=node.js&labelColor=1E1E2E&logoColor=83CD29" alt="Node.js">&nbsp;
+    <img src="https://img.shields.io/badge/-TailwindCSS-1E1E2E?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC&labelColor=1E1E2E" alt="TailwindCSS">&nbsp;
   </a> 
 </div>
 
-
- 
-
-<!-- Improvised Margin -->
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-
-<!--
-  Typing Presentation & Contact Area:
--->
+<!-- Profile Header -->
 <a href="https://github.com/EduardoAntonio77">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=🪐+Hey,+i'm+Eduardo+Antônio+=];⚛️+I'm+a+React+developer+=};🎨+I'm+a+Fullstack+Developer+•+ᴗ+-;🚀+I'm+18+years+old+•ᴗ•;"  alt="Andreas Yuji's Profile Presentation "/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFA500&size=35&center=true&vCenter=true&width=1000&lines=%E2%9C%A8+Hey,+I'm+Eduardo!;%F0%9F%92%BB+Fullstack+Developer;%F0%9F%9A%80+Coding+my+way+to+the+future;%F0%9F%92%A1+Lifelong+Learner!" alt="Profile Presentation"/>
 </a>
 
-<!-- Improvised Margin -->
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-
+<!-- Social Links -->
 <div align="center">
-    <a href="https://www.linkedin.com/in/EduardoAntonio77-a08633321/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt"LinkedIn" />
+    <a href="https://www.linkedin.com/in/EduardoAntonio77/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:andreaspinheirocontato@gmail.com" target="_blank"> 
-      <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" />
+    <a href="mailto:eduardo.contato@gmail.com" target="_blank"> 
+      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" />
     </a>
     <a href="https://www.instagram.com/sun.developer/" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram" />
+        <img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram" />
     </a>
 </div> 
 
-
-
-
-
-#
-<!--
-  Streak & Status
--->
+<!-- GitHub Stats -->
 <div align="center">  
   <a href="https://github.com/EduardoAntonio77">
-    <img width="50%" height="195px" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=EduardoAntonio77&count_private=true&theme=tokyonight&hide_border=true" alt="Andreas Yuji's GitHub Streak Stats" /> 
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardoAntonio77&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Andreas Yuji's GitHub Stats" />
+    <img width="50%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoAntonio77&count_private=true&theme=gruvbox_duo&hide_border=true" alt="GitHub Streak Stats" /> 
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardoAntonio77&show_icons=true&count_private=true&hide_border=true&theme=gruvbox" alt="GitHub Stats" />
   </a>
 </div>
 
-
-
-
-
-
-<!--
-  Contributions Graph & Visitors Count
--->
+<!-- Activity Graph & Visitors -->
 <div align="center">
   <a href="https://github.com/EduardoAntonio77">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoAntonio77&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width="10%" src="https://visitor-badge.laobi.icu/badge?page_id=EduardoAntonio77.EduardoAntonio77" alt="Page Visitors" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoAntonio77&bg_color=1E1E2E&color=FFA500&line=FF4500&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph">
+    <img width="10%" src="https://visitor-badge.laobi.icu/badge?page_id=EduardoAntonio77" alt="Page Visitors" />
   </a>
 </div>
 
-
-
-
-
-
-#
-<!--
-  Tools Area:
--->
-<p align="center">
-    🛸 Tools That I Use :
-</p>
+<!-- Tools -->
+<p align="center">🛠️ Tools I Work With:</p>
 <div align="center">
     <a href="https://github.com/EduardoAntonio77">
-      <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117" alt="Linux">&nbsp;
-      <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117" alt="Git">&nbsp;
-      <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" alt="GitHub">&nbsp;
-      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&labelColor=0D1117" alt="Visual Studio Code">&nbsp;
-      <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117" alt="Windows">&nbsp;
+      <img src="https://img.shields.io/badge/-Linux-1E1E2E?style=for-the-badge&logo=linux&labelColor=1E1E2E" alt="Linux">&nbsp;
+      <img src="https://img.shields.io/badge/-Git-1E1E2E?style=for-the-badge&logo=git&labelColor=1E1E2E" alt="Git">&nbsp;
+      <img src="https://img.shields.io/badge/-GitHub-1E1E2E?style=for-the-badge&logo=github&labelColor=1E1E2E" alt="GitHub">&nbsp;
+      <img src="https://img.shields.io/badge/-VS%20Code-1E1E2E?style=for-the-badge&logo=visualstudiocode&labelColor=1E1E2E" alt="VS Code">&nbsp;
+      <img src="https://img.shields.io/badge/-Docker-1E1E2E?style=for-the-badge&logo=docker&labelColor=1E1E2E" alt="Docker">&nbsp;
     </a>
 </div>
 
-
-
-
-
-
-#
-<!--
-  Level, Achievements & Most Used Languages:
--->
-<p align="center">
-    🌙 Other GitHub Stats :
-</p>
-<div align="center">
-  <a href="https://github.com/EduardoAntonio77">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAntonio77&layout=compact&hide_border=true&margin-h=109px&theme=tokyonight" alt="Most Used Languages"/>
-    <img width="50%" height="195px" src="https://github-profile-trophy.vercel.app/?username=EduardoAntonio77&theme=dracula&row=2&no-bg=false&column=5&margin-w=0&margin-h=0" />
-  </a>
-</div>
-
-
-
-
-
-
-#
-<!--
-  Snake on Commits:
--->
-<p align="center">
-  🐍 HEY! YOU SHOUDN'T BE EATING THIS!! STOOOP!! 😭🙀😭🙀
-</p>
-
-<div align="center">
-  <a href="https://github.com/EduardoAntonio77">
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardoAntonio77/EduardoAntonio77/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardoAntonio77/EduardoAntonio77/output/github-contribution-grid-snake-dark.svg">
-      <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EduardoAntonio77/EduardoAntonio77/output/github-contribution-grid-snake.svg">
-    </picture>
-  </a>
-</div>
-
-
-
-
-
-
-#
-<!--
-  Motivational Phrases &  Indication to pinned projects
--->
+<!-- Motivational Quotes -->
 <a href="https://github.com/EduardoAntonio77">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=%F0%9F%A7%91+No+matter+how+hard,+persist,+%26+code!;%F0%9F%9A%80+No+matter+the+challenge,+progress,+%26+code!;%F0%9F%94%A7+No+matter+the+obstacle,+advance,+%26+code!;%F0%9F%93%9A+No+matter+the+mistake,+learn,+%26+code!;%E2%8F%B3+No+matter+the+time,+achieve,+%26+code!;%F0%9F%A4%94+No+matter+the+doubt,+trust,+%26+code!;%F0%9F%95%92+No+matter+the+pace,+continue,+%26+code!;%F0%9F%9B%A4+No+matter+the+path,+follow,+%26+code!;%F0%9F%94%84+No+matter+the+failure,+restart,+%26+code!;%F0%9F%97%82+No+matter+the+chaos,+organize,+%26+code!" alt="Andreas Yuji's Profile Motivational Phrases">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFA500&size=30&center=true&vCenter=true&width=1000&lines=%E2%9C%85+Embrace+the+grind+and+grow!;%F0%9F%9A%80+Sky+is+not+the+limit,+it's+just+the+beginning!;%F0%9F%94%91+Code,+Break,+Fix,+Repeat!;%F0%9F%94%A5+Great+things+come+to+those+who+code!" alt="Motivational Phrases">
 </a>
 
-#
-<!-- Fixed Repos Presentation
--->
-<p align="left">
-  📌 Some repositories pinned below :
-</p>
+<!-- Pinned Repositories -->
+<p align="left">📌 Check out some of my pinned projects below:</p>
