@@ -30,7 +30,7 @@
 <!-- GitHub Stats -->
 <div align="center">  
   <a href="https://github.com/EduardoAntonio77">
-    <img width="50%" height="195px" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=andreas-yuji-fujiki&count_private=true&theme=tokyonight&hide_border=true" alt="Andreas Yuji's GitHub Streak Stats" /> 
+    <img width="50%" height="195px" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=andreas-yuji-fujiki&count_private=true&theme=gruvbox&hide_border=true" alt="Andreas Yuji's GitHub Streak Stats" /> 
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardoAntonio77&show_icons=true&count_private=true&hide_border=true&theme=gruvbox" alt="GitHub Stats" />
   </a>
 </div>
