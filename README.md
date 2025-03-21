@@ -15,7 +15,7 @@
     <a href="https://www.linkedin.com/in/eduardo-antonio-284bb2292/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:eduardo.contato@gmail.com" target="_blank"> 
+    <a href="mailto:eduardoantjunior@gmail.com" target="_blank"> 
       <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" />
     </a>
     <a href="https://www.instagram.com/fantauva250ml/" target="_blank">
