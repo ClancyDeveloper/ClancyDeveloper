@@ -54,5 +54,16 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFA500&size=30&center=true&vCenter=true&width=1000&lines=%E2%9C%85+Embrace+the+grind+and+grow!;%F0%9F%9A%80+Sky+is+not+the+limit,+it's+just+the+beginning!;%F0%9F%94%91+Code,+Break,+Fix,+Repeat!;%F0%9F%94%A5+Great+things+come+to+those+who+code!" alt="Motivational Phrases">
 </a>
 
+<!-- Commits Snake -->
+<div align="center">
+  <a href="https://github.com/EduardoAntonio77">
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardoAntonio77/EduardoAntonio77/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardoAntonio77/EduardoAntonio77/output/github-contribution-grid-snake-dark.svg">
+      <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EduardoAntonio77/EduardoAntonio77/output/github-contribution-grid-snake.svg">
+    </picture>
+  </a>
+</div>
+
 <!-- Pinned Repositories -->
 <p align="left">📌 Check out some of my pinned projects below:</p>
