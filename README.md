@@ -47,11 +47,9 @@
 <p align="center">🛠️ Tools I Work With:</p>
 <div align="center">
     <a href="https://github.com/EduardoAntonio77">
-      <img src="https://img.shields.io/badge/-Linux-1E1E2E?style=for-the-badge&logo=linux&labelColor=1E1E2E" alt="Linux">&nbsp;
       <img src="https://img.shields.io/badge/-Git-1E1E2E?style=for-the-badge&logo=git&labelColor=1E1E2E" alt="Git">&nbsp;
       <img src="https://img.shields.io/badge/-GitHub-1E1E2E?style=for-the-badge&logo=github&labelColor=1E1E2E" alt="GitHub">&nbsp;
       <img src="https://img.shields.io/badge/-VS%20Code-1E1E2E?style=for-the-badge&logo=visualstudiocode&labelColor=1E1E2E" alt="VS Code">&nbsp;
-      <img src="https://img.shields.io/badge/-Docker-1E1E2E?style=for-the-badge&logo=docker&labelColor=1E1E2E" alt="Docker">&nbsp;
     </a>
 </div>
 
