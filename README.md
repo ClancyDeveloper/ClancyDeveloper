@@ -1,11 +1,7 @@
 <!-- Stacks -->
 <div align="center">
   <a href="https://github.com/EduardoAntonio77">     
-    <img src="https://img.shields.io/badge/-React.js-1E1E2E?style=for-the-badge&logo=react&labelColor=1E1E2E&logoColor=61DAFB" alt="React.js">&nbsp;
-    <img src="https://img.shields.io/badge/-React%20Native-1E1E2E?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1E1E2E" alt="React Native">&nbsp;
-    <img src="https://img.shields.io/badge/-TypeScript-1E1E2E?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=1E1E2E" alt="TypeScript">&nbsp;
-    <img src="https://img.shields.io/badge/-Node.js-1E1E2E?style=for-the-badge&logo=node.js&labelColor=1E1E2E&logoColor=83CD29" alt="Node.js">&nbsp;
-    <img src="https://img.shields.io/badge/-TailwindCSS-1E1E2E?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC&labelColor=1E1E2E" alt="TailwindCSS">&nbsp;
+    <img src="https://img.shields.io/badge/-Python-1E1E2E?style=for-the-badge&logo=python&labelColor=1E1E2E&logoColor=F7CB4D" alt="Python">&nbsp;
   </a> 
 </div>
 
