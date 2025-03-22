@@ -7,7 +7,7 @@
 
 <!-- Profile Header -->
 <a href="https://github.com/EduardoAntonio77">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFA500&size=35&center=true&vCenter=true&width=1000&lines=%E2%9C%A8+Hey,+I'm+Eduardo!;%F0%9F%92%BB+Fullstack+Developer;%F0%9F%9A%80+Coding+my+way+to+the+future;%F0%9F%92%A1+Lifelong+Learner!" alt="Profile Presentation"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFA500&size=35&center=true&vCenter=true&width=1000&lines=%E2%9C%A8+Hey,+I'm+Eduardo!;%F0%9F%92%BB+Python+Developer;%F0%9F%9A%80+Coding+my+way+to+the+future;%F0%9F%92%A1+Lifelong+Learner!" alt="Profile Presentation"/>
 </a>
 
 <!-- Social Links -->
