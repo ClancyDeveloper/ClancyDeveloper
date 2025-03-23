@@ -2,12 +2,14 @@
 <div align="center">
   <a href="https://github.com/EduardoAntonio77">     
     <img src="https://img.shields.io/badge/-Python-1E1E2E?style=for-the-badge&logo=python&labelColor=1E1E2E&logoColor=F7CB4D" alt="Python">&nbsp;
+    <img src="https://img.shields.io/badge/-MySQL-1E1E2E?style=for-the-badge&logo=mysql&labelColor=1E1E2E&logoColor=4479A1" alt="MySQL">
+    <img src="https://img.shields.io/badge/-Lua-1E1E2E?style=for-the-badge&logo=lua&labelColor=1E1E2E&logoColor=2C2D72" alt="Lua">
   </a> 
 </div>
 
 <!-- Profile Header -->
 <a href="https://github.com/EduardoAntonio77">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFA500&size=35&center=true&vCenter=true&width=1000&lines=%E2%9C%A8+Hey,+I'm+Eduardo!;%F0%9F%92%BB+Python+Developer;%F0%9F%9A%80+Coding+my+way+to+the+future;%F0%9F%92%A1+Lifelong+Learner!" alt="Profile Presentation"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFA500&size=35&center=true&vCenter=true&width=1000&lines=%E2%9C%A8+Hey,+I'm+Eduardo!;%F0%9F%92%BB+Backend+Developer;%F0%9F%9A%80+Coding+my+way+to+the+future;%F0%9F%92%A1+Lifelong+Learner!" alt="Profile Presentation"/>
 </a>
 
 <!-- Social Links -->
