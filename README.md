@@ -51,7 +51,7 @@
       <img src="https://img.shields.io/badge/-GitHub-1E1E2E?style=for-the-badge&logo=github&labelColor=1E1E2E" alt="GitHub">&nbsp;
       <img src="https://img.shields.io/badge/-VS%20Code-1E1E2E?style=for-the-badge&logo=visualstudiocode&labelColor=1E1E2E" alt="VS Code">&nbsp;
       <img src="https://img.shields.io/badge/-Postman-1E1E2E?style=for-the-badge&logo=postman&labelColor=1E1E2E&logoColor=F7CB4D" alt="Postman">&nbsp;
-      <img src="https://img.shields.io/badge/-Flasgger-1E1E2E?style=for-the-badge&labelColor=1E1E2E&color=F7CB4D" alt="Flasgger">
+      <img src="https://img.shields.io/badge/-Flasgger-1E1E2E?style=for-the-badge&labelColor=1E1E2E&color=F7CB4D" alt="Flasgger">&nbsp;
       <img src="https://img.shields.io/badge/-Notion-1E1E2E?style=for-the-badge&logo=notion&labelColor=1E1E2E&logoColor=F7CB4D" alt="Notion">&nbsp;
     </a>
 </div>
