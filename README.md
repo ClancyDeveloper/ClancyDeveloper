@@ -3,7 +3,9 @@
   <a href="https://github.com/EduardoAntonio77">     
     <img src="https://img.shields.io/badge/-Python-1E1E2E?style=for-the-badge&logo=python&labelColor=1E1E2E&logoColor=F7CB4D" alt="Python">&nbsp;
     <img src="https://img.shields.io/badge/-MySQL-1E1E2E?style=for-the-badge&logo=mysql&labelColor=1E1E2E&logoColor=4479A1" alt="MySQL">
-    <img src="https://img.shields.io/badge/-Lua-1E1E2E?style=for-the-badge&logo=lua&labelColor=1E1E2E&logoColor=2C2D72" alt="Lua">
+    <img src="https://img.shields.io/badge/-Flask-1E1E2E?style=for-the-badge&logo=flask&labelColor=1E1E2E&logoColor=F7CB4D" alt="Flask">
+    <img src="https://img.shields.io/badge/-Flask--SQLAlchemy-1E1E2E?style=for-the-badge&logo=sqlalchemy&labelColor=1E1E2E&logoColor=F7CB4D" alt="Flask-SQLAlchemy">
+    <img src="https://img.shields.io/badge/-pytest-1E1E2E?style=for-the-badge&logo=pytest&labelColor=1E1E2E&logoColor=F7CB4D" alt="pytest">
   </a> 
 </div>
 
