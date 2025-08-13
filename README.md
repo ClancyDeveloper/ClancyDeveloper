@@ -8,6 +8,8 @@
     <img src="https://img.shields.io/badge/-pytest-1E1E2E?style=for-the-badge&logo=pytest&labelColor=1E1E2E&logoColor=F7CB4D" alt="pytest">
     <img src="https://img.shields.io/badge/-JavaScript-1E1E2E?style=for-the-badge&logo=javascript&labelColor=1E1E2E&logoColor=F7DF1E" alt="JavaScript">&nbsp;
     <img src="https://img.shields.io/badge/-TypeScript-1E1E2E?style=for-the-badge&logo=typescript&labelColor=1E1E2E&logoColor=3178C6" alt="TypeScript">&nbsp;
+    <img src="https://img.shields.io/badge/-ApolloGraphQL-1E1E2E?style=for-the-badge&logo=apollographql&labelColor=1E1E2E&logoColor=FFFFFF" alt="ApolloGraphQL">&nbsp;
+    <img src="https://img.shields.io/badge/-Express-1E1E2E?style=for-the-badge&logo=express&labelColor=1E1E2E&logoColor=FFFFFF" alt="Express">&nbsp;
   </a> 
 </div>
 
