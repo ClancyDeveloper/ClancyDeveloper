@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/-TypeScript-1E1E2E?style=for-the-badge&logo=typescript&labelColor=1E1E2E&logoColor=3178C6" alt="TypeScript">&nbsp;
     <img src="https://img.shields.io/badge/-ApolloGraphQL-1E1E2E?style=for-the-badge&logo=apollographql&labelColor=1E1E2E&logoColor=FFFFFF" alt="ApolloGraphQL">&nbsp;
     <img src="https://img.shields.io/badge/-Express-1E1E2E?style=for-the-badge&logo=express&labelColor=1E1E2E&logoColor=FFFFFF" alt="Express">&nbsp;
+    <img src="https://img.shields.io/badge/-PostgreSQL-1E1E2E?style=for-the-badge&logo=postgresql&labelColor=1E1E2E&logoColor=4169E1" alt="PostgreSQL">&nbsp
   </a> 
 </div>
 
